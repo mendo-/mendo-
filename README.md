@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm mendo, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>
+### <div align="center">I an experienced full-stack developer 🚀</div>
 
 <br/>  
 
